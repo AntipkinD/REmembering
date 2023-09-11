@@ -35,3 +35,4 @@ Console.WriteLine(Artem(-5, -6));
 Console.WriteLine(Artem(7, -8));
 Console.WriteLine(Artem(-9, 9));
 Console.WriteLine(Artem(556, 326));
+Console.WriteLine(Artem(Convert.ToDouble(Console.ReadLine()), Convert.ToDouble(Console.ReadLine())));
